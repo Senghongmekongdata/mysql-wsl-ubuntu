@@ -27,3 +27,6 @@ To delete a database, enter: `DROP DATABASE database_name;`
 For more about working with MySQL databases, see the MySQL docs.
 
 To work with with MySQL databases in VS Code, try the MySQL extension.
+
+
+> Reference: https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-database
